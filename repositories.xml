@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[vlad-rassokhin]]></name>
+    <description lang="en"><![CDATA[Vladislav Rassokhin private overlay]]></description>
+    <homepage>https://github.com/VladRassokhin/my-gentoo-overlay</homepage>
+    <owner type="person">
+      <email>vladrassokhin+overlay@gmail.com</email>
+      <name><![CDATA[Vladislav Rassokhin]]></name>
+    </owner>
+    <source type="git">git://github.com/VladRassokhin/my-gentoo-overlay.git</source>
+    <feed>https://github.com/VladRassokhin/my-gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
